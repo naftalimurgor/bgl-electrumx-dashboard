@@ -1,9 +1,9 @@
 # ElectrumX Dashboard
 
-![](https://user-images.githubusercontent.com/13236924/100623563-9d8b7880-3322-11eb-9da2-5083d28cefbd.png)
+![](./dashboard.png)
 
-ElectrumX Dashboard (EXD) is a lightweight dashboard for [ElectrumX](https://github.com/spesmilo/electrumx) servers.
-Check out [Bitcoin Node Manager](https://github.com/Mirobit/bitcoin-node-manager) as a Bitcoin Core server dashboard.
+Bitgesell ElectrumX Dashboard (EXD) is a lightweight dashboard for [ElectrumX](https://github.com/spesmilo/electrumx) servers.
+Checkout this Electrumx fork for Bitgesell: https://github.com/naftalimurgor/electrumx-bgl
 
 ## Features
 
@@ -45,6 +45,10 @@ rpc://172.17.0.1:ELECXTRUMX-RPC-PORT
 ```
 
 6. EXD should now be accessible under http://server-ip:8001.
+
+## Preview
+
+![](./dashboard.png)
 
 ## Security
 
